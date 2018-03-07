@@ -1,3 +1,3 @@
 # exercise-repo
-develodafp test
-dsafdgfadscds
+<<<<<<< HEAD
+nice
